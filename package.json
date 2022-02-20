@@ -1,0 +1,27 @@
+{
+  "name": "com.meryel.code-analysis-2-10-editor-only",
+  "version": "1.0.0",
+  "displayName": "Code Analysis 2.10 (Editor Only)",
+  "description": "Roslyn binaries v2.10 (C# 7.3) for Unity",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": ""
+  },
+  "samples": [
+    {
+      "displayName": "Sample Code",
+      "description": "Sample code to test Roslyn functionality",
+      "path": "Samples~/Sample"
+    }
+  ],
+  "author": {
+    "name": "Meryel",
+    "email": "merryyellow@outlook.com",
+    "url": "meryel.netlify.app"
+  },
+  "repository": {
+    "type": "",
+    "url": "https://github.com/merryyellow/code-analysis-2-10-editor-only.git"
+  },
+  "hideInEditor": false
+}
