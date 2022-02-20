@@ -7,13 +7,6 @@
   "publishConfig": {
     "registry": ""
   },
-  "samples": [
-    {
-      "displayName": "Sample Code",
-      "description": "Sample code to test Roslyn functionality",
-      "path": "Samples~/Sample"
-    }
-  ],
   "author": {
     "name": "Meryel",
     "email": "merryyellow@outlook.com",
